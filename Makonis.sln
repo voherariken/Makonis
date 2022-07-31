@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Makonis.Web", "Makonis.Web\Makonis.Web.csproj", "{DB408163-811E-423E-874F-6F091379AA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB408163-811E-423E-874F-6F091379AA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB408163-811E-423E-874F-6F091379AA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB408163-811E-423E-874F-6F091379AA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB408163-811E-423E-874F-6F091379AA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C34B56-C9DE-4EAF-B7DF-2A57B7ABDF05}
+	EndGlobalSection
+EndGlobal
